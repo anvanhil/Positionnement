@@ -1,0 +1,46 @@
+#bleue{
+    background: rgb(46, 149, 247);
+    padding: 20px;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    box-sizing: content-box;
+    box-sizing: border-box;
+    
+
+}
+#green{
+    background: rgb(60, 235, 60);
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 50px;
+    top: 50px;
+
+}
+#purple{
+    background-color: purple;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 225px;
+    top: 50px;
+
+}
+#orange{
+    background-color: orange;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 220px;
+    left: 50px;
+
+}
+#yellow {
+    background: yellow;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 220px;
+    left: 225px;
+}

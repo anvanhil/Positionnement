@@ -1,0 +1,54 @@
+#bleue{
+    background: rgb(46, 149, 247);
+    padding: 20px;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    box-sizing: content-box;
+    box-sizing: border-box;
+    border: 1px solid black;
+    
+
+}
+#green{
+    background: rgb(60, 235, 60);
+    position: relative;
+    width: 150px;
+    height: 150px;
+    bottom: 370px;
+    left: 30px;
+    border: 1px solid black;
+
+
+    
+
+}
+#purple{
+    background-color: purple;
+    position: relative;
+    width: 150px;
+    height: 150px;
+    bottom: 520px;
+    left: 220px;
+    border: 1px solid black;
+
+}
+#orange{
+    background-color: orange;
+    position: relative;
+    width: 150px;
+    height: 150px;
+    bottom:480px;
+    left: 30px;
+    border: 1px solid black;
+
+}
+#yellow {
+    background: yellow;
+    position: relative;
+    width: 150px;
+    height: 150px;
+    bottom:630px;
+    left: 220px;
+    border: 1px solid black;
+}

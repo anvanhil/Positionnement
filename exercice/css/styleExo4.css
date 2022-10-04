@@ -1,0 +1,28 @@
+#bleue{
+    background:rgb(48, 187, 202);
+    padding: 50px;
+}
+
+#green{
+    background: rgb(60, 235, 60);
+    padding: 50px;
+    position: absolute;
+    left: 850px;
+    bottom: 400px;
+
+}
+#purple{
+    background-color: purple;
+    padding: 50px;
+
+
+}
+#orange{
+    background-color: orange;
+    padding: 50px;
+    position: absolute;
+    left: 300px;
+    top: 300px;
+
+
+}

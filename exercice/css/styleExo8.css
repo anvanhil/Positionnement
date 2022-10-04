@@ -1,0 +1,13 @@
+#menu{
+    background: orange;
+    width: 150px;
+    border-radius: 15px;
+    position: sticky;
+    top: 15px;
+    left: 10px;
+    border: solid black 1px;
+}
+#texte{
+    text-align: right;
+    height: 150vh;
+}

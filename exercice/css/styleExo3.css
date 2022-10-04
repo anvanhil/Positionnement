@@ -1,0 +1,28 @@
+#green{
+    background: rgb(60, 235, 60);
+    padding: 50px;
+    border: 1px solid black;
+
+
+    
+
+}
+#purple{
+    background-color: purple;
+    padding: 50px;
+
+    border: 1px solid black;
+
+}
+#orange{
+    background-color: orange;
+    padding: 50px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 500px;
+    right: 900px;
+
+
+
+}
+
